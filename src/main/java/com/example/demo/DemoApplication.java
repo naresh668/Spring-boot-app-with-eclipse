@@ -10,6 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		int y=30;
 		int z=30;fgdg
+		//here for emergencey
+		int emergency=300;
 	}
 
 }
