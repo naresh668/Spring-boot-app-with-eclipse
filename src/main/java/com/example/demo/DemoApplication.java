@@ -25,9 +25,11 @@ public class DemoApplication {
 		//writeing some emergency code
 		int emer2=300;
 		//solving normal one
-		int t=30;
+		int t=3developer
 //added from newly devloper team
-int devops=300;
+int devops=300
+//dfdfgd
+ i am only writeing tpo check conflict pro
 
 	}
 
