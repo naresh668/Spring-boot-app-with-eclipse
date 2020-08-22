@@ -20,6 +20,9 @@ public class DemoApplication {
 		
 		//i amc ahnmging for regular buges
 		int t=100;
+		
+		//writeing some emergency code
+		int emer2=300;
 
 	}
 
