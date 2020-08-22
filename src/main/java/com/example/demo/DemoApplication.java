@@ -10,8 +10,17 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		int y=30;
 		int z=30;fgdg
+		
+		
+		
+
 		//here for emergencey
 		int emergency=300;
+
+		
+		//i amc ahnmging for regular buges
+		int t=100;
+
 	}
 
 }
