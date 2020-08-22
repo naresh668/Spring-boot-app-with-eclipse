@@ -26,7 +26,8 @@ public class DemoApplication {
 		int emer2=300;
 		//solving normal one
 		int t=30;
-
+//added from newly devloper team
+int devops=300;
 
 	}
 
