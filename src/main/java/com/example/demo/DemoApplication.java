@@ -27,7 +27,7 @@ public class DemoApplication {
 		//solving normal one
 		int t=3developer
 //added from newly devloper team
-int devops=300;
+
 //dfdfg
 
 	}
