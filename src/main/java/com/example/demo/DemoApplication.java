@@ -9,26 +9,10 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		int y=30;
-		int z=30;fgdg
 		
 		
 		
-
-		//here for emergencey
-		int emergency=300;
-
 		
-		//i amc ahnmging for regular buges
-		
-		
-
-		//writeing some emergency code
-		int emer2=300;
-		//solving normal one
-
-//added from newly devloper team
-
-//dfdfg
 
 	}
 
