@@ -14,21 +14,6 @@ public class DemoApplication {
 		
 		
 
-		//here for emergencey
-		int emergency=300;
-
-		
-		//i amc ahnmging for regular buges
-		int t=100;
-		
-
-		//writeing some emergency code
-		int emer2=300;
-		//solving normal one
-		int t=30;
-//dfdfgd
- i am only writeing tpo check conflict problem
-
 	}
 
 }
