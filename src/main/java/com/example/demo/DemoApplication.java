@@ -8,14 +8,10 @@ public class DemoApplication {
  
 	public static void main(String[] args) {
 		
-		
-<<<<<<< HEAD
-		
 
-=======
 		in t=100;
-		feewrreyre
->>>>>>> parent of 555e307... concentrae
+
+		in t=100;
 		
 		
 
