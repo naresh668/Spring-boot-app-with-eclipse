@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		int y=30;
-		int z=30;fgdg
+		int z=30;
 		
 		
 		
