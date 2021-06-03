@@ -4,14 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class Test {
  
 	public static void main(String[] args) {
 		
 
-		in t=100;
-
-		in t=100;
+		
 
 		
 
